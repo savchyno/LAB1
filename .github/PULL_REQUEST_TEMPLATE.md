@@ -1,7 +1,7 @@
-#Task link
+# Task link
 
-#What has been changed?
+# What has been changed?
 
-#Important notes
+# Important notes
 
-#Self-checks
+# Self-checks
